@@ -10,7 +10,7 @@ function App() {
       <h1 className="title">ISS Location</h1>
       <WorldMap />
     </div>
-    
+
   );
 } 
 
